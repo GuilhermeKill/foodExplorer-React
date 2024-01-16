@@ -10,7 +10,7 @@
 
 Site funcionando: https://foodexplorergui.netlify.app/
 
-DADOS DO USUÁRIO ADM: (LOGIN: GUI  /  SENHA: 123)
+DADOS DO USUÁRIO ADM: (LOGIN: gui  /  SENHA: 123)
 
 
 
