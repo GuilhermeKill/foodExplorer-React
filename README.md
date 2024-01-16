@@ -8,7 +8,7 @@
 </div>
 <br>
 
-Site funcionando: https://guilherme.netlify.app
+Site funcionando: https://foodexplorergui.netlify.app/
 
 # FOOD EXPLORER
 Aplicação de um cardápio digital para um restaurante fictício, conhecido como FoodExplorer.<br>
