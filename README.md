@@ -37,11 +37,12 @@ O projeto será divido em duas partes: `Front-end` e `Back-end`
   - Lib de navegação do projeto: `react-router-dom`
 
 
-
-# Faça o clone do repositório
+### Instalação
+```bash
 
 # Faça a instalação das depêndencias
   npm i
 
 # Executando o projeto no ambiente de desenvolvimento
   npm run dev
+```
