@@ -3,7 +3,7 @@ import { FiX } from "react-icons/fi";
 import { FiSearch, FiLogOut } from 'react-icons/fi'
 import { Search } from "../Search";
 import { useState, useEffect } from "react";
-import { useAuth } from '../../hooks/auth.jsX';
+import { useAuth } from '../../hooks/auth.jsx';
 import { useNavigate } from "react-router-dom";
 
 export function SideMenu({ handleMenu, menuisopen, search }) {
