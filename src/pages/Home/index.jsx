@@ -54,7 +54,7 @@ export function Home() {
             if (dishes.category === "Refeição") {
               return (
                 <Card
-                  src={`https://food-explorer-api-zmmj.onrender.com/files/dishfiles/${dishes.image}`}
+                  src={`https://food-explorer-api-6wpc.onrender.com/files/dishfiles/${dishes.image}`}
                   onClick={() => handleDetails(dishes.id)}
                   key={String(dishes.id)}
                   data={dishes}
@@ -69,7 +69,7 @@ export function Home() {
             if (dishes.category === "Bebida") {
               return (
                 <Card
-                  src={`https://food-explorer-api-zmmj.onrender.com/files/dishfiles/${dishes.image}`}
+                  src={`https://food-explorer-api-6wpc.onrender.com/files/dishfiles/${dishes.image}`}
                   onClick={() => handleDetails(dishes.id)}
                   key={String(dishes.id)}
                   data={dishes}
@@ -84,7 +84,7 @@ export function Home() {
             if (dishes.category === "Sobremesa") {
               return (
                 <Card
-                  src={`https://food-explorer-api-zmmj.onrender.com/files/dishfiles/${dishes.image}`}
+                  src={`https://food-explorer-api-6wpc.onrender.com/files/dishfiles/${dishes.image}`}
                   onClick={() => handleDetails(dishes.id)}
                   key={String(dishes.id)}
                   data={dishes}
