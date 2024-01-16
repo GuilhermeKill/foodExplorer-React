@@ -10,6 +10,12 @@
 
 Site funcionando: https://foodexplorergui.netlify.app/
 
+DADOS DO USUÁRIO ADM:
+
+LOGIN: GUI
+SENHA: 123
+
+
 # FOOD EXPLORER
 Aplicação de um cardápio digital para um restaurante fictício, conhecido como FoodExplorer.<br>
 O projeto será divido em duas partes: `Front-end` e `Back-end`
