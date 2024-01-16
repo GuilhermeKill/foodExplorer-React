@@ -36,7 +36,7 @@ export function AdminDetails() {
       <ButtonBack />
       <Content>
         {data.image &&
-          <DescriptionSection isAdmin src={`https://food-explorer-api-zmmj.onrender.com/files/dishfiles/${data.image}`} data={data} />
+          <DescriptionSection isAdmin src={`https://food-explorer-api-6wpc.onrender.com/files/dishfiles/${data.image}`} data={data} />
         }
       </Content>
       <Footer />
