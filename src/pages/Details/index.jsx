@@ -34,7 +34,7 @@ export function Details() {
       <ButtonBack />
       <Content>
         {data.image &&
-          <DescriptionSection src={`http://localhost:3333/files/dishfiles/${data.image}`} data={data} />
+          <DescriptionSection src={`https://food-explorer-api-zmmj.onrender.com/files/dishfiles/${dishes.image}`} data={data} />
         }
       </Content>
       <Footer />
