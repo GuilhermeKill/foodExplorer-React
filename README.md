@@ -10,7 +10,7 @@
 
 Site funcionando: https://foodexplorergui.netlify.app/
 
-DADOS DO USUÁRIO ADM: (LOGIN: gui  /  SENHA: 123)
+DADOS DO USUÁRIO ADM: (LOGIN: admin  /  SENHA: admin)
 
 
 
@@ -38,3 +38,10 @@ O projeto será divido em duas partes: `Front-end` e `Back-end`
 
 
 
+# Faça o clone do repositório
+
+# Faça a instalação das depêndencias
+  npm i
+
+# Executando o projeto no ambiente de desenvolvimento
+  npm run dev
